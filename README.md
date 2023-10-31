@@ -60,7 +60,7 @@
 <td style = "width: 50%;">
   
 ##  📈Dash Board:
-![](https://count.getloli.com/get/@QSbai.github.readme)
+![](https://count.getloli.com/get/@QSbai.github.readme?theme=rule34)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QSbai&text_color=FFFF00&bg_color=282828&hide=HTML,Tex&layout=compact)](https://QSbai.cn/) 
   
