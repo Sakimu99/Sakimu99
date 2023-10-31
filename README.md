@@ -122,4 +122,4 @@
 </tr>
 </table>  
 
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hope+is+a+good+thing;Maybe+the+best+of+things;And+no+good+thing+ever+dies)](https://git.io/typing-svg)**
+**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=525252&random=false&width=900&height=40&lines=Hope+is+a+good+thing%2Cmaybe+the+best+of+things%2Cand+no+good+thing+ever+dies.)](https://git.io/typing-svg)**
