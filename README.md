@@ -1,6 +1,6 @@
 ### QSbai/QsAki 
 **A Backend Software Engineer. Want To Be A Full Stack Engineer.**
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=335&lines=Hello+World!)](https://git.io/typing-svg)**
+
 <table>
 
 <tr>
@@ -122,3 +122,4 @@
 </tr>
 </table>  
 
+**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=335&lines=Hello+World!)](https://git.io/typing-svg)**
