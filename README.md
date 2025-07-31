@@ -62,9 +62,9 @@
 ##  📈Dash Board:
 ![](https://count.getloli.com/get/@Sakimu.github.readme?theme=rule34)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakimu&text_color=FFFF00&bg_color=282828&hide=HTML,Tex&layout=compact)](https://Sakimu.cn/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakimu&text_color=FFFF00&bg_color=282828&hide=HTML,Tex&layout=compact)](https://saki.im/) 
   
-[![Sakimu's github stats](https://github-readme-stats.vercel.app/api?username=Sakimu&show_icons=true&icon_color=FF8C00&text_color=FFFF00&bg_color=282828&hide_title=true")](https://Sakimu.cn/)  
+[![Sakimu's github stats](https://github-readme-stats.vercel.app/api?username=Sakimu&show_icons=true&icon_color=FF8C00&text_color=FFFF00&bg_color=282828&hide_title=true")](https://saki.im/)  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakimu&theme=monokai)
  
