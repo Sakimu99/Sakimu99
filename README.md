@@ -1,5 +1,5 @@
 ### Sakimu/Sakimu99/QsAki 
-**A Backend Software Engineer. Want To Be A Full Stack Engineer.**
+**全干开发，什么都会，但只会一点点。**
 
 <table>
 
