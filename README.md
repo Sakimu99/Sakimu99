@@ -59,7 +59,7 @@
 </td>
 <td style = "width: 50%;">
   
-##  📈Dash Board:
+##  📈 数据面板:
 ![](https://count.getloli.com/get/@Sakimu99.github.readme?theme=rule34)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakimu99&text_color=FFFF00&bg_color=282828&hide=HTML,Tex&layout=compact)](https://saki.im/) 
@@ -70,7 +70,7 @@
  
 <img src="https://komarev.com/ghpvc/?username=Sakimu99" alt="Sakimu99" />  
 
-## 🛠 Languages and Tools:
+## 🛠 编程语言及工具:
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
@@ -99,7 +99,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Abode%20Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
 
-## 💻 Platforms:
+## 💻 平台:
 
 ![Android](https://img.shields.io/badge/-Android-444444?style=flat-square&logo=android)
 ![Linux](https://img.shields.io/badge/-Linux-444444?style=flat-square&logo=linux)
