@@ -6,7 +6,7 @@
 <tr>
 <td style = "width: 50%;">
 
-## 📇 Learning:
+## 📇 学习中：
 
 - `JavaScript`
 - `STM32`,`ESP32`
@@ -15,7 +15,7 @@
 - `Unity3D`
 - `Netty`,`Spring`
   
-## 👔 Development Experience
+## 👔 部分技能：
 - Stack
   - `AGV` ROS Robot, rplidar SLAM, Motor Control
   - `Screen` LCD, TFT, SEG, Nixie, VFD 
@@ -60,7 +60,7 @@
 <td style = "width: 50%;">
   
 ##  📈Dash Board:
-![](https://count.getloli.com/get/@Qsbai.github.readme?theme=rule34)
+![](https://count.getloli.com/get/@Sakimu.github.readme?theme=rule34)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakimu&text_color=FFFF00&bg_color=282828&hide=HTML,Tex&layout=compact)](https://Sakimu.cn/) 
   
