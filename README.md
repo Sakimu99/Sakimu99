@@ -60,15 +60,15 @@
 <td style = "width: 50%;">
   
 ##  📈Dash Board:
-![](https://count.getloli.com/get/@QSbai.github.readme?theme=rule34)
+![](https://count.getloli.com/get/@Qsbai.github.readme?theme=rule34)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QSbai&text_color=FFFF00&bg_color=282828&hide=HTML,Tex&layout=compact)](https://QSbai.cn/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakimu&text_color=FFFF00&bg_color=282828&hide=HTML,Tex&layout=compact)](https://Sakimu.cn/) 
   
-[![QSbai's github stats](https://github-readme-stats.vercel.app/api?username=QSbai&show_icons=true&icon_color=FF8C00&text_color=FFFF00&bg_color=282828&hide_title=true")](https://QSbai.cn/)  
+[![Sakimu's github stats](https://github-readme-stats.vercel.app/api?username=Sakimu&show_icons=true&icon_color=FF8C00&text_color=FFFF00&bg_color=282828&hide_title=true")](https://Sakimu.cn/)  
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QSbai&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakimu&theme=monokai)
  
-<img src="https://komarev.com/ghpvc/?username=QSbai" alt="QSbai" />  
+<img src="https://komarev.com/ghpvc/?username=Sakimu" alt="Sakimu" />  
 
 ## 🛠 Languages and Tools:
 
